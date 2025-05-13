@@ -1,14 +1,3 @@
-###  **TIL - 2025.04.15**
-
-## **오늘 배운 것 개요**
-- **[CUDA + JNI 연동 방식 학습](https://github.com/giwon-wg/CUDA-permutation-benchmark)**
-- **Java에서 DLL 호출 후 GPU 병렬 연산 수행**
-- **3백만 개 이상의 순열을 GPU와 CPU 방식으로 비교**
-- **성능 차이 실험을 통해 CUDA의 이점을 확인**
-
-
----
-
 ## **1. 이 실험을 시작한 이유**
 
 이번 실험은 애니메이션 "스즈미야 하루히의 우울"에서 착안한 **Haruhi Problem**에서 시작됐다.  
